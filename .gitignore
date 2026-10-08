@@ -1,0 +1,25 @@
+# Data
+data/raw/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Model files
+*.pt
+*.bin
+models/
+
+# OS files
+.DS_Store
